@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 🔭 I’m currently working on: Building side projects, shipping ideas, and leveling up my DSA game<br>👯 I’m looking to collaborate on: Cool open-source, startups, or anything that breaks the usual<br>🤝 I’m looking for help with: Scaling projects and writing cleaner, smarter code<br>🌱 I’m currently learning: System design, advanced DSA, and modern web stacks<br>💬 Ask me about: Code, debugging chaos, and turning ideas into reality<br>⚡ Fun fact: I build things for fun… and sometimes they actually work 🚀<br>
 
